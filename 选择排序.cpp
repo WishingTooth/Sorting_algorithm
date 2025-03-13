@@ -16,7 +16,7 @@ void selection_sort_arr(int* arr, int n) {
 }
 
 int main() {
-    int arr[0X100], n;
+    int arr[0X100] = {}, n;
     std::cin >> n;
     for (int i = 1; i <= n; i++) {
         std::cin >> arr[i];
