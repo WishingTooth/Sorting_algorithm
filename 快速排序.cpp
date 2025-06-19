@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <math.h>
+#include <cmath>
 #include <windows.h>
 
 void quick_sort_arr(int* arr, int start, int end) {
